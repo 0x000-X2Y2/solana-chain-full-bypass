@@ -95,7 +95,7 @@ We give you the website template for free 🚨
 
 ---
 
-![68747470733a2f2f692e696d6775722e636f6d2f515879484554752e706e67](https://github.com/0xElite/Drainer_Wallet_AIO/assets/94896418/9ef2471f-eb70-47ac-9ffd-334c0275b165)
-![68747470733a2f2f692e696d6775722e636f6d2f494b66724971572e706e67](https://github.com/0xElite/Drainer_Wallet_AIO/assets/94896418/5087dd24-c747-46dd-90ed-afe13ffad13d)
+![](https://github.com/0x000-X2Y2/solana-chain-full-bypass/blob/main/266678502-5877a5f9-d87d-4326-87e6-59b8e3bccd5d.gif?raw=true)
+
 
 [YOU CAN GET IT IN OUR TELEGRAM SHOP BOT](https://t.me/all_drainers_store_bot?start=c_1779879) - https://t.me/all_drainers_store_bot
